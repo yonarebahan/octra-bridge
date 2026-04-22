@@ -5,7 +5,7 @@
 git clone https://github.com/yonarebahan/octra-bridge.git
 ```
 ```
-cd bridge-oct
+cd octra-bridge
 ```
 **install**
 ```
